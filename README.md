@@ -20,7 +20,7 @@
 To download the source code you just need to type this in a bash:
 
 ```console
-Project-Piffa@main:~$ git clone https://github.com/matteopiffari/Ruzzle
+matteopiffari@main:~$ git clone https://github.com/matteopiffari/Ruzzle
 ```
 
 ## 🎈 Usage <a name="usage"></a>
@@ -34,4 +34,4 @@ Simple open the main.cpp and compile the code.
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@Project-Piffa](https://github.com/Project-Piffa) - Idea & Work
+- [@matteopiffari](https://github.com/matteopiffari) - Idea & Work
